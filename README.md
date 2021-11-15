@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://naciaa.github.io/mapka/#4
+- Leaflet Map https://naciaa.github.io/mapka/#2
 - Google Sheets template https://docs.google.com/spreadsheets/d/1UgybGHpN5L6pQjdD4q28aQQvEpXojSBRq4mEK0B4tAc/edit?usp=sharing
 
 ## Create Your Own
